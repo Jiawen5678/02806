@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 title: Assignment B
 description: Is PitBull Guity? Dog attack incidents and the underlying discrimination behind them
 author: Dog owner
+=======
+title: Is PitBull Guity?
+description: This is my awesome website!
+author: Your Name
+>>>>>>> 2cfef6e9960295cf967b0aed819dd9dc4087643c
 theme: jekyll-theme-Architect
